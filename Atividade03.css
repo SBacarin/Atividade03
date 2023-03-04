@@ -1,0 +1,17 @@
+html {
+    background-color: grey;
+}
+
+li {
+    display: inline-block;
+    padding: 0px 20px 0px 20px
+}
+
+.oculte {
+    display: none
+}
+
+a:focus,
+a:hover {
+    border: 2px solid #F00;
+}
